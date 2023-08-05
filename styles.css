@@ -1,0 +1,41 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: rgba(13, 32, 126, 0.964);
+    background-image: url(images/ffxiv\ background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    margin-left: 800px;
+    background-color: rgba(0, 0, 0, 0.75);
+    width: 400px;
+    height: 700px;
+}
+
+.box1 {
+    height: 175px;
+    width: 400px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+
+nav a {
+    font-size: 35px;
+    color: rgb(199, 180, 11);
+    padding-left: 110px;
+}
